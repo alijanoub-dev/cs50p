@@ -7,8 +7,8 @@ My solutions and tracking repository for Harvard University's CS50P course. This
 - [Done] **Week 1:** Conditionals (`feat/week-1-conditionals`)
 - [Done] **Week 2:** Loops (`feat/week-2-Loops`)
 - [Done] **Week 3:** Exceptions (`feat/week-3-Exceptions`)
-- [ ] **Week 4:** Libraries (`feat/week-4-Libraries`)
-- [ ] **Week 5:** Unit Tests
+- [Done] **Week 4:** Libraries (`feat/week-4-Libraries`)
+- [ ] **Week 5:** Unit Tests (`feat/week-4-Unit Tests`)
 - [ ] **Week 6:** File I/O
 - [ ] **Week 7:** Regular Expressions
 - [ ] **Week 8:** Object-Oriented Programming
