@@ -10,8 +10,8 @@ My solutions and tracking repository for Harvard University's CS50P course. This
 - [Done] **Week 4:** Libraries (`feat/week-4-Libraries`)
 - [Done] **Week 5:** Unit Tests (`feat/week-5-Unit Tests`)
 - [Done] **Week 6:** File I/O (`feat/week-6-File I/O`)
-- [ ] **Week 7:** Regular Expressions (`feat/week-7-Regular Expressions`)
-- [ ] **Week 8:** Object-Oriented Programming
+- [Done] **Week 7:** Regular Expressions (`feat/week-7-Regular Expressions`)
+- [ ] **Week 8:** Object-Oriented Programming (`feat/week-8-Object-Oriented Programming`)
 - [ ] **Week 9:** Et Cetera
 
 ## 🛠️ Development Tools
